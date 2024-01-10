@@ -18,7 +18,7 @@ The script prompts the user to input the number of accounts to generate.
 Utilizes the RandomUser.me API to obtain random user data for account creation.
 Profile Customization:
 
-Allows customization of profile details such as profile picture, bio content, and background image.
+Allows customization of profile details such as profile picture, bio content, and background image. 
 Supports both random and predefined values for profile customization.
 Connection Establishment:
 
