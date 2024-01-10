@@ -3,7 +3,11 @@
 
 Don't forget to star if you like this project !
 
-This Python script is designed to automate the account generation process on the Feds.lol platform. It leverages the Feds.lol API to register accounts, update profile details, and establish connections. Below are the key features and functionalities of this account generator:
+This Python script is designed to automate the account generation process on the Feds.lol platform. It leverages the Feds.lol API to register accounts, update profile details, and establish connections. Below are the key features and functionalities of this account generator
+
+Why did I want to make that :
+
+I saw this repository from imvast and saw "Feds.lol is better" so I tried to bot this website and well, it is trash too, no protection at all
 
 Features:
 
