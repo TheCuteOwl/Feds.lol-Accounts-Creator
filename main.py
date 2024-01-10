@@ -163,7 +163,7 @@ for x in range(num):
             pass
 
             
-        save_to_file("generated.txt", f"{{'email': '{payload_register['email']}', 'username': '{payload_register['username']}',  'password': '{payload_register['password']}', 'link': '{payload_register['link']}', 'token': '{generated_token}'}}")
+        save_to_file('generated.txt', f'{{"email": "{payload_register["email"]}", username": "{payload_register["username"]}",  "password": "{payload_register["password"]}", "link": "{payload_register["link"]}", "token": f"{generated_token}"}}')
         
         print("Account fully changed!")
         
