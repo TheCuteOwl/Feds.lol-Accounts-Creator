@@ -58,8 +58,9 @@ Modify the config.json file to customize the account generation process. Tailor 
 ```
 
 Dependencies:
+```
 Requests
-
+```
 License:
 This project is licensed under the MIT License.
 
