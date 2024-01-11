@@ -73,3 +73,5 @@ Contributions are welcome! Fork the repository and create a pull request with yo
 
 Author:
 TheCuteOwl
+
+I AM NOT RESPONSIBLE FOR ANY MISS USE OF THIS PROGRAM 
